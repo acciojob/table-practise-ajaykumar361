@@ -7,8 +7,9 @@ th, tr, td {
   border: 1px solid black;
 }
 
- /* light grey */
-
+th {
+  background-color: yellow ; /* light grey */
+}
 
 td {
   padding: 10px; /* add some padding to the cells */
